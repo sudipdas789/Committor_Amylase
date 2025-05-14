@@ -9,7 +9,7 @@ This archive contains all the input files needed to reproduce the results of the
 For classical and QM/MM equilibrium MD simulations, please refer to PLUMED NEST repository with ID: 23.017
 
 In the " Committor_Amylase_PLUMED_NEST" folder the following files are available:
-- "Committor_training" folder contains a jupyter notebook file along with required input data files for training the committor.
+- "Committor_training" folder contains a jupyter notebook file along with some example input data files for training the committor.
 - "OPES_Enhanced_Sampling_with_Committor" folder contains all the CP2K, PLUMED and Pytorch input files to run OPES enhanced sampling QM/MM MD simulations with a smoother version of the committor. 
 
 More information about using PLUMED with Pytorch can be found at https://github.com/luigibonati/data-driven-CVs.
