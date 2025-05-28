@@ -2,7 +2,7 @@
 
 # Sudip Das, Umberto Raucci, Enrico Trizio, Peilin Kang, Rui P. P. Neves, Maria J. Ramos, Michele Parrinello 
 
-# https://doi.org/10.1021/acscatal.xxxxxx
+# https://doi.org/10.1021/acscatal.5c02431
 
 This archive contains all the input files needed to reproduce the results of the paper.
 
